@@ -1,7 +1,7 @@
 # OLADAYO EGBEYEMI
 #### SOFTWARE ENGINEER
 
-<a href="https://app.daily.dev/iAmServer"><img src="https://api.daily.dev/devcards/0a917f44c77e42c1837e99bdeda8f9e4.png?r=56u" width="400" alt="Ola Dayo's Dev Card"/></a>
+<a href="https://app.daily.dev/iAmServer"><img src="https://raw.githubusercontent.com/iAmServer/iAmServer/master/devcard.svg" width="200" alt="Ola Dayo's Dev Card"/></a>
 <!--
 **iAmServer/iAmServer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
