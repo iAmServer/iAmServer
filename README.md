@@ -9,8 +9,10 @@
 <!-- <a href="https://cjav.dev"><img src="https://img.shields.io/badge/blog-%23000.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a> -->
 
 
-<a href="https://app.daily.dev/iAmServer"><img src="https://raw.githubusercontent.com/iAmServer/iAmServer/master/devcard.svg" width="200" alt="Ola Dayo's Dev Card"/></a>   [![iAmServer's github stats](https://github-readme-stats.vercel.app/api?username=iamserver&show_icons=true&count_private=true&bg_color=fff&include_all_commits=true&text_color=0A2540&title_color=635BFF&hide=stars,contribs&custom_title=GitHub%20Stats)](https://github.com/iamserver)
+[![iAmServer's github stats](https://github-readme-stats.vercel.app/api?username=iamserver&show_icons=true&count_private=true&bg_color=fff&include_all_commits=true&text_color=0A2540&title_color=635BFF&hide=stars,contribs&custom_title=GitHub%20Stats)](https://github.com/iamserver)
 
+
+<a href="https://app.daily.dev/iAmServer"><img src="https://raw.githubusercontent.com/iAmServer/iAmServer/master/devcard.svg" width="200" alt="Ola Dayo's Dev Card"/></a>
 
 
 <!--
