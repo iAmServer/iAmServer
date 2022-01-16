@@ -12,7 +12,9 @@
 [![iAmServer's github stats](https://github-readme-stats.vercel.app/api?username=iamserver&show_icons=true&count_private=true&bg_color=fff&include_all_commits=true&text_color=0A2540&title_color=635BFF&hide=stars,contribs&custom_title=GitHub%20Stats)](https://github.com/iamserver)
 
 
-<a href="https://app.daily.dev/iAmServer"><img src="https://raw.githubusercontent.com/iAmServer/iAmServer/master/devcard.svg" width="200" alt="Ola Dayo's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/iAmServer"><img src="https://raw.githubusercontent.com/iAmServer/iAmServer/master/devcard.svg" width="200" alt="Ola Dayo's Dev Card"/></a>
+ -->
+<a href="https://app.daily.dev/iAmServer"><img src="https://api.daily.dev/devcards/0a917f44c77e42c1837e99bdeda8f9e4.png?r=haw" width="200" alt="Ola Dayo's Dev Card"/></a>
 
 
 <!--
