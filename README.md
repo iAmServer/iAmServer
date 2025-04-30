@@ -14,7 +14,7 @@
 
 <!-- <a href="https://app.daily.dev/iAmServer"><img src="https://raw.githubusercontent.com/iAmServer/iAmServer/master/devcard.svg" width="200" alt="Ola Dayo's Dev Card"/></a>
  -->
-<a href="https://app.daily.dev/iAmServer"><img src="https://api.daily.dev/devcards/0a917f44c77e42c1837e99bdeda8f9e4.png?r=haw" width="200" alt="Ola Dayo's Dev Card"/></a>
+<a href="https://app.daily.dev/iAmServer"><img src="https://api.daily.dev/devcards/0a917f44c77e42c1837e99bdeda8f9e4.png?r=haw" width="200" alt="Ola Dayo's Dev Card"/></a> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6811f137fe43d1abf27afd15?variant=dark" alt="roadmap.sh"/></a>
 
 
 <!--
