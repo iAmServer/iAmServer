@@ -1,4 +1,4 @@
-# Oladayo Egbeyemi
+# Joshua (Oladayo) Egbeyemi
 ### Software Engineer
 
 Passionate software engineer with a focus on building scalable, reliable systems. I enjoy solving complex problems, contributing to open-source projects, and continuously sharpening my craft across the full software development lifecycle.
